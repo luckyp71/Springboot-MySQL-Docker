@@ -77,7 +77,7 @@ The following steps are essential to get this project running:
   
   <p>
 6. Run this project image and link with mysql inside docker container which we already named it as database:
-docker run --rm -p 8090:8090 --name simpleboot --link database:mysql luckypp71/simpleboot
+docker run --rm -p 8090:8090 --name simpleboot --link database:mysql luckyp71/simpleboot
 </p>
 <p>
 7. Now you could access the resources through REST URLs. Below are the list of URLs:</p>
