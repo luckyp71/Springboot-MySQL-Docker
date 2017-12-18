@@ -12,7 +12,7 @@ This repository is just an example on how to dockerize Spring Boot application w
 <p>7. mysql:latest Image</p>
 
 <p>You could either run the app in localhost or in docker default IP (192.168.99.100).
-But since this repository aims to run an image of springboot project, you should chose the docker instead.
+But since this repository aims to run an image of springboot project, you should choose the docker instead.
 </p>
 <p>
 The following steps are essential to get this project running:
